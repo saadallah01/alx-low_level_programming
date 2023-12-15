@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - 4-puts.c
- * description - Write a C program that prints exactly
+ * description - Write a C program
  *
  * Return: Always 0 (Success)
  */
@@ -11,4 +11,3 @@ int main(void)
 
         return (0);
 }
-
